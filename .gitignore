@@ -16,3 +16,8 @@ data/*.csv
 data/sources.json
 data/_instructor/
 day09-data.zip
+
+dataset/*.zip
+*.zip
+scripts/take_shots.py
+scripts/take_crash_shot.py
